@@ -1,4 +1,4 @@
-# ⚙️ Python Automation Scripts — Advanced Tutorials
+# Python Computer Visoion — Advanced Tutorials
 
 > **A comprehensive collection of production-grade automation scripts** covering file systems, web scraping, browser automation, Excel/CSV processing, email, scheduling, APIs, and more.
 
@@ -9,36 +9,11 @@
 
 ---
 
+1. YOLO
+2. CV2
+3. Pillow
 
-## 0. PPTX Automation Tool
-
-## 🗂️ 1. File & Folder Automation
-
-> Automate repetitive file management tasks — renaming, organizing, deduplication, and backups.
-
-## 🌐 2. Web Scraping
-
-> Extract structured data from any website — static pages, paginated results, and JSON APIs.
-
-## 🖥️ 3. Browser Automation (Selenium / Playwright)
-
-> Automate real browser interactions — logins, form fills, screenshots, and scraping JS-heavy sites.
-
-## 📊 4. Excel & CSV Automation
-
-> Generate reports, clean messy data, merge sheets, and build ETL pipelines with Pandas and openpyxl.
-
-## 📧 5. Email Automation
-
-> Send plain text, HTML emails, and bulk campaigns with attachments via SMTP.
-
-## ⏰ 6. Task Scheduling
-
-> Schedule Python scripts to run at specific times — daily reports, hourly backups, cron-style jobs.
-
-## 🔌 7. API Automation
-
-> Automate REST API workflows — GitHub, Sheets, Slack, webhooks, and custom APIs.
+---
 
 **Example — GitHub API: Auto-create Issue:**
 
