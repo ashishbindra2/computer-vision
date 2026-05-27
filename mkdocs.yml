@@ -1,4 +1,4 @@
-site_name: My API Learning
+site_name: Computer Vision
 theme:
   name: material
   features:
@@ -62,7 +62,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - PPTX:
-    - basic: ppt_file/pptx.md
+  - basic: basic.md
+  # - PPTX:
+  #   - basic: ppt_file/pptx.md
 copyright: |
   &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">Ashish Bindra</a>
